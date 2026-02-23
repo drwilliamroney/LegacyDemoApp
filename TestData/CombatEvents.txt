@@ -1,0 +1,233 @@
+COMBAT EVENTS FOR 12/08/41
+
+ADJUST TASK FORCE MISSIONS 
+CALCULATE RANGE TO ENEMY
+CALCULATE AIR SUPERIORITY
+ASSIGN COMPUTER CONTROLLED UNITS
+Hwaiyin is occupied by the Japanese
+Amphibious TF 85 unloading at Kota Bharu
+IDLE TF'S RELOCATE
+ROUTINE AIR OPERATIONS
+setting CAP over objective
+withdrawing depleted air units
+planning major raids
+assigning bombers to transport duty
+assigning night missions
+ROUTINE AIR OPERATIONS COMPLETE
+ROUTINE AIR OPERATIONS
+setting CAP over objective
+withdrawing depleted air units
+planning major raids
+assigning bombers to transport duty
+assigning night missions
+ROUTINE AIR OPERATIONS COMPLETE
+ROUTINE AIR OPERATIONS
+setting CAP over objective
+withdrawing depleted air units
+planning major raids
+assigning bombers to transport duty
+assigning night missions
+ROUTINE AIR OPERATIONS COMPLETE
+ROUTINE AIR OPERATIONS
+setting CAP over objective
+withdrawing depleted air units
+planning major raids
+assigning bombers to transport duty
+assigning night missions
+ROUTINE AIR OPERATIONS COMPLETE
+ROUTINE AIR OPERATIONS
+setting CAP over objective
+withdrawing depleted air units
+planning major raids
+assigning bombers to transport duty
+assigning night missions
+ROUTINE AIR OPERATIONS COMPLETE
+ROUTINE AIR OPERATIONS
+setting CAP over objective
+withdrawing depleted air units
+planning major raids
+assigning bombers to transport duty
+assigning night missions
+ROUTINE AIR OPERATIONS COMPLETE
+ROUTINE AIR OPERATIONS
+setting CAP over objective
+withdrawing depleted air units
+planning major raids
+assigning bombers to transport duty
+assigning night missions
+ROUTINE AIR OPERATIONS COMPLETE
+Setting Japanese Local Patrols
+Combat Events:
+NAVAL REACTION PHASE
+LOADING/UNLOADING TASK FORCES
+Amphibious TF 85 unloading at Kota Bharu
+TASK FORCE LOADING/UNLOADING COMPLETE
+CALCULATING TASK FORCE PATHS
+MINESWEEPING OPERATIONS
+NAVAL MOVEMENT PHASE
+ADJUST SHIP FUEL
+NIGHT AIR OPERATIONS PHASE
+AIR NIGHT STRIKES
+AIRCRAFT LANDING
+SURFACE COMBAT CHECK
+DIVIDE CRIPPLED TFs
+Amphibious TF 15 offshore of Makin
+REPAIRING SHIPS
+END 12 HOUR PULSE
+DIVIDE CRIPPLED TFs
+CHECKING TF FUEL
+TF'S RETURN TO PORT
+Combat Events:
+NAVAL REACTION PHASE
+LOADING/UNLOADING TASK FORCES
+Amphibious TF 15 unloading at Makin
+Amphibious TF 85 unloading at Kota Bharu
+TASK FORCE LOADING/UNLOADING COMPLETE
+CALCULATING TASK FORCE PATHS
+MINESWEEPING OPERATIONS
+NAVAL MOVEMENT PHASE
+ADJUST SHIP FUEL
+AIR OPERATIONS PHASE : AM
+CL Danae detected by Japanese Torpedo Bomber at 50,84 near Singapore
+TF 420 sighted by Japanese Aircraft at 50,84 near Singapore
+TF 18 followed by H6K4 Mavis at 50,84 near Singapore
+a Royal Sovereign class BB has spotted a Japanese Patrol at 50,84
+CL Danae sights Japanese Float Plane at 50,84 near Singapore
+TF 409 sighted by Japanese Aircraft at 174,107 near Niihau
+SS Dolphin under attack by a Japanese Aircraft at 178,107
+CA Houston sighted by Japanese Carrier Aircraft at 79,84 near Iloilo
+TF 420 sights Japanese Fighter Bomber at 50,84 near Singapore
+SOC-1 Seagull sighting report: 10 Japanese ships at 173,102 near French Frigate Shoal , Speed 10 , Moving West
+PBY-4 Catalina sighting report: 7 Japanese ships at 83,70 near Calayan , Speed 11 , Moving Southwest
+PBY-4 Catalina sighting report: 10 Japanese ships at 86,87 near Dinagat , Speed 12 , Moving Southeast
+PBY-4 Catalina sighting report: 2 Japanese ships at 85,70 near Batan Island , Speed unknown 
+PBY-4 Catalina sighting report: 2 Japanese ships at 81,65 near Takao , Speed 10 , Moving West
+PBY-4 Catalina sighting report: 2 Japanese ships at 84,65 near Takao , Speed unknown 
+PBY-4 Catalina sighting report: 9 Japanese ships at 87,91 near Babeldaob , Speed 7 , Moving Northwest
+PBY-4 Catalina sighting report: 7 Japanese ships at 83,70 near Calayan , Speed 11 , Moving Southwest
+PBY-4 Catalina sighting report: 5 Japanese ships at 83,70 near Calayan , Speed 10 , Moving Southwest
+PBY-4 Catalina sighting report: 6 Japanese ships at 83,70 near Calayan , Speed 11 , Moving Southwest
+PBY-4 Catalina sighting report: 8 Japanese ships at 85,70 near Batan Island , Speed unknown 
+PBY-4 Catalina sighting report: 2 Japanese ships at 83,70 near Calayan , Speed 6 , Moving Southwest
+PBY-4 Catalina sighting report: 2 Japanese ships at 85,70 near Batan Island , Speed unknown 
+Do-24K-1 sighting report: 5 Japanese ships at 64,75 near Cam Ranh Bay , Speed 12 , Moving Southeast
+Do-24K-1 sighting report: 10 Japanese ships at 51,75 near Kota Bharu , Speed unknown 
+Do-24K-1 sighting report: 9 Japanese ships at 51,72 near Singora , Speed unknown 
+Do-24K-1 sighting report: 10 Japanese ships at 51,75 near Kota Bharu , Speed unknown 
+Catalina I sighting report: 2 Japanese ships at 51,72 near Singora , Speed unknown 
+AIR STRIKES
+SLDR Henderson, A.D. of No.8 Sqn RAAF Det bails out with WOUNDS but is RESCUED
+WCDR Wright, F.N. of No.8 Sqn RAAF bails out with WOUNDS but is RESCUED
+DMS Dorsey sinks....
+DMS Long sinks....
+CA Portland sinks....
+CPT Hanson, E. has been KILLED
+AIRCRAFT LANDING
+DMS Southard sinks....
+DIVIDE CRIPPLED TFs
+AIR OPERATIONS PHASE : PM
+CA Houston has spotted a Japanese Float Plane at 79,84
+CL Danae has spotted a Japanese Aircraft at 50,84
+TF 405 sighted by H6K4 Mavis at 145,101 near Wake Island
+Search H6K4 Mavis destroyed by CAP at (145,101)
+DMS Hopkins has spotted a Japanese Aircraft at 174,107
+DMS Hopkins has spotted a Japanese Aircraft at 174,107
+Search PBY-4 Catalina destroyed by CAP at (84,65)
+PBY-4 Catalina sighting report: 7 Japanese ships at 83,70 near Calayan , Speed 8 , Moving Southwest
+PBY-4 Catalina sighting report: 2 Japanese ships at 84,65 near Takao , Speed 8 , Moving Southwest
+PBY-4 Catalina sighting report: 6 Japanese ships at 80,69 near Laoag , Speed 4 , Moving Southwest
+PBY-4 Catalina sighting report: 2 Japanese ships at 84,65 near Takao , Speed 6 , Moving Southwest
+PBY-4 Catalina sighting report: Japanese xAP at 66,70 near Quinhon , Speed 19 , Moving Southwest 
+Do-24K-1 sighting report: Japanese xAP at 66,70 near Quinhon , Speed 13 , Moving Southwest 
+Do-24K-1 sighting report: 2 Japanese ships at 94,103 near Yap , Speed 5 , Moving Southeast
+Do-24K-1 sighting report: 6 Japanese ships at 86,96 near Babeldaob, speed 13, Moving East
+Do-24K-1 sighting report: 2 Japanese ships at 51,73 near Patani , Speed unknown 
+Do-24K-1 sighting report: 2 Japanese ships at 51,70 near Nakhon Si Thammarat , Speed unknown 
+AIR STRIKES
+AIRCRAFT LANDING
+AIR TRANSPORT PHASE
+AIRCRAFT LANDING
+SURFACE COMBAT CHECK
+DIVIDE CRIPPLED TFs
+Amphibious TF 15 unloading at Makin
+REPAIRING SHIPS
+END 12 HOUR PULSE
+DIVIDE CRIPPLED TFs
+CHECKING TF FUEL
+TF'S RETURN TO PORT
+89th Chinese Corps RETREATING towards Kweiteh
+Japanese forces CAPTURE Tsingsing !!!
+1/19th Chinese Corps RETREATING towards Yutze
+Japanese forces CAPTURE Kota Bharu !!!
+FMSV Brigade SURRENDERS !!!
+8th Indian Brigade SURRENDERS !!!
+3rd ISF Base Force SURRENDERS !!!
+Japanese forces CAPTURE Makin !!!
+RECALCULATING ZONES OF CONTROL
+SUPPLY REQUIREMENTS PHASE
+Pendleton expands fortifications to size 1
+Sacramento expands fortifications to size 1
+San Francisco expands fortifications to size 2
+Stockton expands fortifications to size 1
+Wendover Field expands fortifications to size 1
+Annette Island expands fortifications to size 1
+Juneau expands fortifications to size 1
+Hilo expands fortifications to size 1
+Lahaina expands fortifications to size 1
+Palmyra expands fortifications to size 1
+Pago Pago expands fortifications to size 1
+Kuala Lumpur expands fortifications to size 1
+Malacca expands fortifications to size 1
+Taiping expands fortifications to size 1
+Christmas Island expands fortifications to size 1
+Bangalore expands fortifications to size 1
+Hyderabad expands fortifications to size 1
+Alice Springs expands fortifications to size 1
+Canberra expands fortifications to size 1
+Ceduna expands fortifications to size 1
+Portland expands fortifications to size 1
+Wagga Wagga expands fortifications to size 1
+Calgary expands fortifications to size 1
+San Luis Obispo expands fortifications to size 1
+Puckapunyal expands fortifications to size 1
+MOVING OIL AND RESOURCES
+PRODUCTION PHASE
+SUPPLY MOVEMENT PHASE
+CALCULATING SPOILAGE
+AIRCRAFT REPAIR PHASE
+AIRCRAFT SUPPLY PHASE
+UPGRADING SHIPS
+UPGRADING AIR UNITS
+UPGRADING LAND UNITS
+SUPPLY PHASE COMPLETE
+END OF DAY
+TRAINING SHIP CREWS
+DISBANDING HUMAN CONTROLLED TASK FORCES
+ADJUSTING AVIATION SUPPORT
+LAND UNIT REPLACEMENT PHASE
+AIR UNIT REPLACEMENT PHASE
+MERGING SUB UNITS
+SUB UNIT MERGE COMPLETE
+DIVIDE CRIPPLED TFs
+Low garrison leads to damage and 1 VP loss from partisan attack at Colombo (29, 48)!
+Low garrison leads to damage and 1 VP loss from partisan attack at Mandalay (59, 46)!
+Low garrison leads to damage and 1 VP loss from partisan attack at Chittagong (55, 41)!
+Low garrison leads to damage and 1 VP loss from partisan attack at Madurai (30, 42)!
+LEADER REASSIGNMENT PHASE
+AV Wright arrives at Pearl Harbor
+xAK Ewa arrives at Balboa
+xAKL Island Mail arrives at Balboa
+xAP Largs Bay arrives at Aden
+xAP Felix Roussel arrives at Cape Town
+xAP Cap St Jacques arrives at Cape Town
+VMF-111 arrives at Eastern USA
+VP-71 arrives at Eastern USA
+VP-72 arrives at Eastern USA
+2-VI.G.II  arrives at Malang
+3-Vl.G.IV arrives at Madioen
+Vk.A.4 arrives at Kalidjati
+No.7 Sqn RCAF arrives at Prince Rupert
+No.9 Sqn RCAF arrives at Bella Bella
+No.4 Sqn RNZAF arrives at Suva
+SEARCHING FOR ADJACENT ENEMY UNITS
+REASSIGNING TRANSPORT GROUPS

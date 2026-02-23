@@ -1,0 +1,1100 @@
+AFTER ACTION REPORTS FOR Dec 08, 41
+--------------------------------------------------------------------------------
+Invasion Support action off Kota Bharu (51,75)
+ 
+17 Coastal gun shots fired in defense.
+ 
+Japanese Ships
+      CL Sendai
+      DD Ayanami
+      DD Uranami
+      PB Tatsumiya Maru
+      SC Ch 9
+      SC Ch 7
+      AK Sasako Maru
+ 
+Allied ground losses:
+      45 casualties reported
+         Squads: 0 destroyed, 2 disabled
+         Non Combat: 0 destroyed, 4 disabled
+         Engineers: 0 destroyed, 0 disabled
+ 
+CL Sendai firing at 8th Indian Brigade
+DD Ayanami firing at FMSV Brigade
+DD Uranami firing at 8th Indian Brigade
+PB Tatsumiya Maru fired at enemy troops
+SC Ch 9 fired at enemy troops
+SC Ch 7 fired at enemy troops
+Defensive Guns fire at approaching troops in landing craft at 2,000 yards
+ 
+ 
+--------------------------------------------------------------------------------
+Invasion Support action off Kota Bharu (51,75)
+Defensive Guns engage approaching landing force
+ 
+5 Coastal gun shots fired in defense.
+ 
+Japanese Ships
+      PB Tatsumiya Maru
+      SC Ch 9
+      SC Ch 7
+      AK Sasako Maru
+ 
+Allied ground losses:
+      7 casualties reported
+         Squads: 0 destroyed, 0 disabled
+         Non Combat: 0 destroyed, 1 disabled
+         Engineers: 0 destroyed, 0 disabled
+ 
+PB Tatsumiya Maru fired at enemy troops
+SC Ch 9 fired at enemy troops
+SC Ch 7 fired at enemy troops
+ 
+ 
+--------------------------------------------------------------------------------
+Night Air attack on Wake Island , at 136,98 
+ 
+Weather in hex: Heavy rain
+ 
+Raid spotted at 10 NM, estimated altitude 13,000 feet.
+Estimated time to target is 3 minutes
+ 
+Japanese aircraft
+      G3M2 Nell x 8
+ 
+No Japanese losses
+ 
+Runway hits 1
+ 
+Aircraft Attacking:
+       8 x G3M2 Nell bombing from 10000 feet * 
+               Airfield Attack:  2 x 250 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Night Air attack on Rangoon , at 54,53 
+ 
+Weather in hex: Severe storms
+ 
+Raid spotted at 14 NM, estimated altitude 11,000 feet.
+Estimated time to target is 4 minutes
+ 
+Japanese aircraft
+      Ki-21-IIa Sally x 4
+ 
+No Japanese losses
+ 
+Aircraft Attacking:
+       4 x Ki-21-IIa Sally bombing from 8000 feet
+               Airfield Attack:  4 x 250 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Night Air attack on Rangoon , at 54,53 
+ 
+Weather in hex: Severe storms
+ 
+Raid spotted at 40 NM, estimated altitude 11,000 feet.
+Estimated time to target is 11 minutes
+ 
+Japanese aircraft
+      Ki-21-IIa Sally x 5
+ 
+No Japanese losses
+ 
+Runway hits 1
+ 
+Aircraft Attacking:
+       5 x Ki-21-IIa Sally bombing from 8000 feet
+               Airfield Attack:  4 x 250 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Amphibious Assault at Makin (136,125)
+ 
+TF 15 troops unloading over beach at Makin, 136,125
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Invasion Support action off Kota Bharu (51,75)
+Defensive Guns engage approaching landing force
+ 
+16 Coastal gun shots fired in defense.
+ 
+Japanese Ships
+      PB Tatsumiya Maru
+      SC Ch 9
+      SC Ch 7
+      AK Sasako Maru
+ 
+PB Tatsumiya Maru fired at enemy troops
+SC Ch 9 fired at enemy troops
+SC Ch 7 fired at enemy troops
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Kuantan , at 51,79 
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 1 NM, estimated altitude 8,000 feet.
+Estimated time to target is 0 minutes
+ 
+Japanese aircraft
+      G3M2 Nell x 29
+ 
+Allied aircraft
+      no flights
+ 
+Japanese aircraft losses
+      G3M2 Nell: 5 damaged
+ 
+Allied aircraft losses
+      Blenheim I: 5 damaged
+      Blenheim I: 1 destroyed on ground
+      Swordfish I: 1 damaged
+      Hudson I: 4 damaged
+ 
+Allied ground losses:
+      8 casualties reported
+         Squads: 0 destroyed, 0 disabled
+         Non Combat: 0 destroyed, 1 disabled
+         Engineers: 0 destroyed, 0 disabled
+ 
+Airbase hits 11
+Airbase supply hits 6
+Runway hits 49
+ 
+Aircraft Attacking:
+      29 x G3M2 Nell bombing from 6000 feet
+               Airfield Attack:  2 x 250 kg GP Bomb,  4 x 60 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Kuantan , at 51,79 
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 1 NM, estimated altitude 10,000 feet.
+Estimated time to target is 0 minutes
+ 
+Japanese aircraft
+      G4M1 Betty x 10
+ 
+Allied aircraft
+      no flights
+ 
+Japanese aircraft losses
+      G4M1 Betty: 1 damaged
+      G4M1 Betty: 1 destroyed by flak
+ 
+Allied aircraft losses
+      Blenheim I: 1 damaged
+      Blenheim I: 1 destroyed on ground
+ 
+Airbase hits 6
+Airbase supply hits 4
+Runway hits 8
+ 
+Aircraft Attacking:
+      10 x G4M1 Betty bombing from 5000 feet
+               Airfield Attack:  2 x 250 kg GP Bomb,  4 x 60 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Kuantan , at 51,79 
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 25 NM, estimated altitude 10,000 feet.
+Estimated time to target is 9 minutes
+ 
+Japanese aircraft
+      G3M2 Nell x 36
+ 
+Allied aircraft
+      no flights
+ 
+Japanese aircraft losses
+      G3M2 Nell: 1 destroyed by flak
+ 
+Allied aircraft losses
+      Blenheim I: 1 damaged
+      Hudson I: 1 destroyed on ground
+ 
+Airbase hits 9
+Airbase supply hits 9
+Runway hits 38
+ 
+Aircraft Attacking:
+      36 x G3M2 Nell bombing from 7000 feet
+               Airfield Attack:  2 x 250 kg GP Bomb,  4 x 60 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Kuantan , at 51,79 
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 18 NM, estimated altitude 9,000 feet.
+Estimated time to target is 6 minutes
+ 
+Japanese aircraft
+      G3M2 Nell x 9
+ 
+Allied aircraft
+      no flights
+ 
+Japanese aircraft losses
+      G3M2 Nell: 1 damaged
+      G3M2 Nell: 1 destroyed by flak
+ 
+Allied aircraft losses
+      Blenheim I: 1 damaged
+      Hudson I: 1 damaged
+ 
+Airbase hits 1
+Runway hits 2
+ 
+Aircraft Attacking:
+       9 x G3M2 Nell bombing from 6000 feet
+               Airfield Attack:  2 x 250 kg GP Bomb,  4 x 60 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Kota Bharu , at 51,75 
+ 
+Weather in hex: Thunderstorms
+ 
+Raid spotted at 15 NM, estimated altitude 17,000 feet.
+Estimated time to target is 4 minutes
+ 
+Japanese aircraft
+      Ki-21-IIa Sally x 27
+ 
+Allied aircraft
+      Blenheim IF x 1
+      Buffalo I x 3
+ 
+No Japanese losses
+ 
+No Allied losses
+ 
+Airbase hits 2
+Runway hits 3
+ 
+Aircraft Attacking:
+      27 x Ki-21-IIa Sally bombing from 14000 feet * 
+               Airfield Attack:  2 x 250 kg GP Bomb
+ 
+CAP engaged:
+No.21 Sqn RAAF with Buffalo I (3 airborne, 0 on standby, 0 scrambling)
+      (3 plane(s) diverted to support CAP in hex.)
+      3 plane(s) intercepting now.
+      Group patrol altitude is 10000 , scrambling fighters between 0 and 10000.
+      Raid is overhead
+No.27 Sqn RAF with Blenheim IF (1 airborne, 0 on standby, 0 scrambling)
+      (1 plane(s) diverted to support CAP in hex.)
+      1 plane(s) intercepting now.
+      Group patrol altitude is 6000 , scrambling fighters between 0 and 6000.
+      Raid is overhead
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Kuantan , at 51,79 
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 34 NM, estimated altitude 17,000 feet.
+Estimated time to target is 10 minutes
+ 
+Japanese aircraft
+      Ki-48-Ib Lily x 27
+ 
+Allied aircraft
+      no flights
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      Blenheim I: 1 damaged
+ 
+Airbase hits 1
+Runway hits 9
+ 
+Aircraft Attacking:
+      27 x Ki-48-Ib Lily bombing from 13000 feet * 
+               Airfield Attack:  2 x 100 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Kuantan , at 51,79 
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 18 NM, estimated altitude 17,000 feet.
+Estimated time to target is 5 minutes
+ 
+Japanese aircraft
+      Ki-48-Ib Lily x 31
+ 
+Allied aircraft
+      no flights
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      Blenheim I: 1 damaged
+ 
+Airbase hits 2
+Airbase supply hits 2
+Runway hits 6
+ 
+Aircraft Attacking:
+      31 x Ki-48-Ib Lily bombing from 11000 feet * 
+               Airfield Attack:  2 x 100 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Kota Bharu , at 51,75 
+ 
+Weather in hex: Thunderstorms
+ 
+Raid spotted at 21 NM, estimated altitude 19,000 feet.
+Estimated time to target is 6 minutes
+ 
+Japanese aircraft
+      Ki-21-IIa Sally x 31
+      Ki-27b Nate x 41
+ 
+Allied aircraft
+      no flights
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      Hudson I: 5 damaged
+      Hudson I: 1 destroyed on ground
+ 
+Airbase hits 2
+Airbase supply hits 1
+Runway hits 4
+ 
+Aircraft Attacking:
+      31 x Ki-21-IIa Sally bombing from 17000 feet * 
+               Airfield Attack:  2 x 250 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Tavoy , at 54,60 
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 32 NM, estimated altitude 15,000 feet.
+Estimated time to target is 9 minutes
+ 
+Japanese aircraft
+      Ki-27b Nate x 16
+      Ki-48-Ib Lily x 6
+ 
+No Japanese losses
+ 
+Airbase hits 1
+Airbase supply hits 1
+Runway hits 11
+ 
+Aircraft Attacking:
+       6 x Ki-48-Ib Lily bombing from 13000 feet
+               Airfield Attack:  4 x 100 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on TF, near Kota Bharu at 51,75
+ 
+Weather in hex: Thunderstorms
+ 
+Raid spotted at 10 NM, estimated altitude 3,000 feet.
+Estimated time to target is 3 minutes
+ 
+Japanese aircraft
+      A6M2 Zero x 18
+      Ki-27b Nate x 23
+ 
+Allied aircraft
+      Hudson I x 3
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      Hudson I: 2 damaged
+ 
+Japanese Ships
+      BB Haruna
+ 
+Aircraft Attacking:
+       3 x Hudson I bombing from 3000 feet
+               Naval Attack:  4 x 250 lb GP Bomb
+ 
+CAP engaged:
+Yamada Det S-1 with A6M2 Zero (0 airborne, 0 on standby, 0 scrambling)
+      (18 plane(s) diverted to support CAP in hex.)
+      0 plane(s) not yet engaged, 0 being recalled, 18 out of immediate contact.
+      Group patrol altitude is 8000 , scrambling fighters between 0 and 8000.
+      Time for all group planes to reach interception is 12 minutes
+1st Sentai with Ki-27b Nate (0 airborne, 0 on standby, 12 scrambling)
+      Group patrol altitude is 14000 
+      Time for all group planes to reach interception is 43 minutes
+11th Sentai with Ki-27b Nate (0 airborne, 0 on standby, 11 scrambling)
+      Group patrol altitude is 7000 , scrambling fighters to 14000.
+      Time for all group planes to reach interception is 40 minutes
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on TF, near Kota Bharu at 51,75
+ 
+Weather in hex: Thunderstorms
+ 
+Raid spotted at 12 NM, estimated altitude 8,000 feet.
+Estimated time to target is 3 minutes
+ 
+Japanese aircraft
+      A6M2 Zero x 18
+      Ki-27b Nate x 23
+      Ki-43-Ia Oscar x 7
+ 
+Allied aircraft
+      Blenheim I x 3
+      Hudson I x 4
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      Blenheim I: 2 destroyed
+      Hudson I: 2 destroyed
+ 
+CAP engaged:
+59th Sentai with Ki-43-Ia Oscar (0 airborne, 0 on standby, 0 scrambling)
+      (27 plane(s) diverted to support CAP in hex.)
+      0 plane(s) not yet engaged, 0 being recalled, 7 out of immediate contact.
+      Group patrol altitude is 7000 , scrambling fighters between 0 and 7000.
+      Time for all group planes to reach interception is 23 minutes
+Yamada Det S-1 with A6M2 Zero (18 airborne, 0 on standby, 0 scrambling)
+      18 plane(s) intercepting now.
+      Group patrol altitude is 8000 , scrambling fighters between 0 and 8000.
+      Raid is overhead
+1st Sentai with Ki-27b Nate (0 airborne, 0 on standby, 12 scrambling)
+      Group patrol altitude is 14000 
+      Time for all group planes to reach interception is 28 minutes
+11th Sentai with Ki-27b Nate (0 airborne, 0 on standby, 11 scrambling)
+      Group patrol altitude is 7000 , scrambling fighters to 14000.
+      Time for all group planes to reach interception is 38 minutes
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on TF, near Kota Bharu at 51,75
+ 
+Weather in hex: Thunderstorms
+ 
+Raid spotted at 20 NM, estimated altitude 17,000 feet.
+Estimated time to target is 6 minutes
+ 
+Japanese aircraft
+      A6M2 Zero x 9
+      Ki-27b Nate x 23
+      Ki-43-Ia Oscar x 7
+ 
+Allied aircraft
+      Blenheim IV x 10
+      Hudson I x 2
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      Blenheim IV: 1 destroyed
+      Hudson I: 1 destroyed
+ 
+CAP engaged:
+Yamada Det S-1 with A6M2 Zero (0 airborne, 0 on standby, 0 scrambling)
+      9 plane(s) not yet engaged, 0 being recalled, 0 out of immediate contact.
+      Group patrol altitude is 8000 , scrambling fighters to 6000.
+      Time for all group planes to reach interception is 90 minutes
+1st Sentai with Ki-27b Nate (0 airborne, 0 on standby, 12 scrambling)
+      Group patrol altitude is 14000 
+      Time for all group planes to reach interception is 35 minutes
+11th Sentai with Ki-27b Nate (0 airborne, 0 on standby, 11 scrambling)
+      Group patrol altitude is 7000 , scrambling fighters to 14000.
+      Time for all group planes to reach interception is 31 minutes
+59th Sentai with Ki-43-Ia Oscar (7 airborne, 0 on standby, 0 scrambling)
+      7 plane(s) intercepting now.
+      Group patrol altitude is 7000 , scrambling fighters between 0 and 7000.
+      Raid is overhead
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on TF, near Niihau at 174,107
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 20 NM, estimated altitude 14,000 feet.
+Estimated time to target is 7 minutes
+ 
+Japanese aircraft
+      A6M2 Zero x 37
+      B5N2 Kate x 35
+      D3A1 Val x 31
+ 
+Japanese aircraft losses
+      B5N2 Kate: 1 damaged
+ 
+Allied Ships
+      CA Indianapolis, Bomb hits 8,  heavy fires
+      DMS Dorsey, Torpedo hits 1, and is sunk
+      DMS Southard, Bomb hits 3,  heavy fires,  heavy damage
+      DMS Long, Torpedo hits 1, and is sunk
+      DMS Hopkins, Bomb hits 1,  on fire
+      DMS Elliot, Torpedo hits 1,  on fire,  heavy damage
+ 
+Aircraft Attacking:
+       4 x D3A1 Val releasing from 3000'
+               Naval Attack:  1 x 250 kg SAP Bomb
+      13 x B5N2 Kate launching torpedoes at 200 feet
+               Naval Attack:  1 x 18in Type 91 Torpedo
+       2 x D3A1 Val releasing from 1000'
+               Naval Attack:  1 x 250 kg SAP Bomb
+      22 x B5N2 Kate launching torpedoes at 200 feet
+               Naval Attack:  1 x 18in Type 91 Torpedo
+       4 x D3A1 Val releasing from 1000'
+               Naval Attack:  1 x 250 kg SAP Bomb
+       5 x D3A1 Val releasing from 2000'
+               Naval Attack:  1 x 250 kg SAP Bomb
+       3 x D3A1 Val releasing from 2000'
+               Naval Attack:  1 x 250 kg SAP Bomb
+       5 x D3A1 Val releasing from 3000'
+               Naval Attack:  1 x 250 kg SAP Bomb
+       8 x D3A1 Val releasing from 3000'
+               Naval Attack:  1 x 250 kg SAP Bomb
+ 
+Heavy smoke from fires obscuring CA Indianapolis
+Heavy smoke from fires obscuring DMS Southard
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on Victoria Point , at 51,66 
+ 
+Weather in hex: Partial cloud
+ 
+Raid spotted at 33 NM, estimated altitude 15,000 feet.
+Estimated time to target is 10 minutes
+ 
+Japanese aircraft
+      Ki-48-Ib Lily x 3
+ 
+No Japanese losses
+ 
+Airbase hits 1
+Airbase supply hits 1
+Runway hits 8
+ 
+Aircraft Attacking:
+       3 x Ki-48-Ib Lily bombing from 13000 feet
+               Airfield Attack:  4 x 100 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Morning Air attack on TF, near Niihau at 174,107
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 29 NM, estimated altitude 13,000 feet.
+Estimated time to target is 12 minutes
+ 
+Japanese aircraft
+      B5N2 Kate x 9
+ 
+Allied aircraft
+      no flights
+ 
+Japanese aircraft losses
+      B5N2 Kate: 3 damaged
+ 
+Allied aircraft losses
+      SOC-1 Seagull: 1 destroyed
+ 
+Allied Ships
+      CA Indianapolis, Torpedo hits 3, and is sunk
+      DMS Hopkins,  on fire
+ 
+Aircraft Attacking:
+       9 x B5N2 Kate launching torpedoes at 200 feet
+               Naval Attack:  1 x 18in Type 91 Torpedo
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on Clark Field , at 79,76 
+ 
+Weather in hex: Severe storms
+ 
+Raid detected at 73 NM, estimated altitude 10,000 feet.
+Estimated time to target is 25 minutes
+ 
+Japanese aircraft
+      A6M2 Zero x 39
+      G4M1 Betty x 16
+ 
+Allied aircraft
+      P-26A x 4
+      P-40B Warhawk x 1
+ 
+Japanese aircraft losses
+      G4M1 Betty: 1 damaged
+ 
+Allied aircraft losses
+      P-26A: 1 destroyed
+      P-40B Warhawk: 1 damaged
+      P-40B Warhawk: 1 destroyed on ground
+      P-35A: 1 destroyed on ground
+ 
+Allied ground losses:
+      8 casualties reported
+         Squads: 0 destroyed, 0 disabled
+         Non Combat: 0 destroyed, 2 disabled
+         Engineers: 0 destroyed, 1 disabled
+ 
+Airbase hits 5
+Airbase supply hits 4
+Runway hits 29
+ 
+Aircraft Attacking:
+      16 x G4M1 Betty bombing from 7000 feet
+               Airfield Attack:  2 x 250 kg GP Bomb,  4 x 60 kg GP Bomb
+       6 x A6M2 Zero sweeping at 10000 feet
+       4 x A6M2 Zero sweeping at 8000 feet
+ 
+CAP engaged:
+6th PS PAAC with P-26A (0 airborne, 0 on standby, 0 scrambling)
+      (4 plane(s) diverted to support CAP in hex.)
+      0 plane(s) not yet engaged, 0 being recalled, 4 out of immediate contact.
+      Group patrol altitude is 10000 , scrambling fighters between 0 and 10000.
+      Time for all group planes to reach interception is 28 minutes
+24th PG/HqS with P-40B Warhawk (0 airborne, 0 on standby, 0 scrambling)
+      0 plane(s) not yet engaged, 1 being recalled, 0 out of immediate contact.
+      Group patrol altitude is 10000 , scrambling fighters between 0 and 10000.
+      Time for all group planes to reach interception is 11 minutes
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on Hong Kong , at 77,61 
+ 
+Weather in hex: Light cloud
+ 
+Raid detected at 37 NM, estimated altitude 8,000 feet.
+Estimated time to target is 11 minutes
+ 
+Japanese aircraft
+      B5M1 Mabel x 3
+ 
+Japanese aircraft losses
+      B5M1 Mabel: 2 damaged
+ 
+Aircraft Attacking:
+       3 x B5M1 Mabel bombing from 5000 feet * 
+               Airfield Attack:  2 x 250 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on Clark Field , at 79,76 
+ 
+Weather in hex: Severe storms
+ 
+Raid detected at 27 NM, estimated altitude 10,000 feet.
+Estimated time to target is 10 minutes
+ 
+Japanese aircraft
+      G3M2 Nell x 6
+ 
+Allied aircraft
+      no flights
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      O-47A: 7 damaged
+      O-47A: 1 destroyed on ground
+      B-17D Fortress: 11 damaged
+ 
+Airbase hits 3
+Runway hits 6
+ 
+Aircraft Attacking:
+       6 x G3M2 Nell bombing from 5000 feet
+               Airfield Attack:  2 x 250 kg GP Bomb,  4 x 60 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on Lihue , at 178,106 
+ 
+Weather in hex: Moderate rain
+ 
+Raid spotted at 19 NM, estimated altitude 11,000 feet.
+Estimated time to target is 7 minutes
+ 
+Japanese aircraft
+      A6M2 Zero x 37
+      B5N2 Kate x 36
+ 
+Allied aircraft
+      P-36A Mohawk x 1
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      P-36A Mohawk: 1 destroyed
+ 
+Airbase supply hits 3
+Runway hits 4
+ 
+Aircraft Attacking:
+      15 x B5N2 Kate bombing from 10000 feet
+               Airfield Attack:  2 x 250 kg GP Bomb
+      21 x B5N2 Kate bombing from 11000 feet
+               Airfield Attack:  2 x 250 kg GP Bomb
+ 
+CAP engaged:
+15th PG/HqS with P-36A Mohawk (1 airborne, 0 on standby, 0 scrambling)
+      (1 plane(s) diverted to support CAP in hex.)
+      1 plane(s) intercepting now.
+      Group patrol altitude is 10000 , scrambling fighters between 0 and 10000.
+      Raid is overhead
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on Hong Kong , at 77,61 
+ 
+Weather in hex: Light cloud
+ 
+Raid detected at 8 NM, estimated altitude 15,000 feet.
+Estimated time to target is 2 minutes
+ 
+Japanese aircraft
+      A6M2 Zero x 24
+      Ki-48-Ib Lily x 20
+ 
+Japanese aircraft losses
+      Ki-48-Ib Lily: 1 damaged
+ 
+Airbase hits 2
+Airbase supply hits 4
+Runway hits 19
+ 
+Aircraft Attacking:
+      20 x Ki-48-Ib Lily bombing from 10000 feet
+               Airfield Attack:  4 x 100 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on Hong Kong , at 77,61 
+ 
+Weather in hex: Light cloud
+ 
+Raid detected at 74 NM, estimated altitude 18,000 feet.
+Estimated time to target is 25 minutes
+ 
+Japanese aircraft
+      Ki-44 Tojo x 6
+      Ki-51 Sonia x 13
+ 
+Japanese aircraft losses
+      Ki-51 Sonia: 2 damaged
+ 
+Allied Ships
+      xAK Nanning, Bomb hits 2,  on fire
+      xAK Munlock, Bomb hits 1,  on fire
+      xAK Haraldsvang, Bomb hits 1
+      xAKL Joan Moller, Bomb hits 2,  on fire
+      xAKL Soochow, Bomb hits 1,  on fire
+      xAK Fatshan, Bomb hits 1
+      xAKL Kanchow, Bomb hits 1,  on fire
+ 
+Port hits 4
+ 
+Aircraft Attacking:
+      13 x Ki-51 Sonia bombing from 12000 feet
+               Port Attack:  4 x 50 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on Foochow , at 86,60 
+ 
+Weather in hex: Partial cloud
+ 
+Raid spotted at 30 NM, estimated altitude 17,000 feet.
+Estimated time to target is 10 minutes
+ 
+Japanese aircraft
+      Ki-51 Sonia x 13
+ 
+No Japanese losses
+ 
+Airbase hits 5
+Runway hits 5
+ 
+Aircraft Attacking:
+      13 x Ki-51 Sonia bombing from 16000 feet * 
+               Airfield Attack:  2 x 50 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on 86th Chinese Corps, at 86,60 (Foochow)
+ 
+Weather in hex: Partial cloud
+ 
+Raid spotted at 37 NM, estimated altitude 10,000 feet.
+Estimated time to target is 17 minutes
+ 
+Japanese aircraft
+      Ki-27b Nate x 27
+      Ki-36 Ida x 9
+ 
+No Japanese losses
+ 
+Allied ground losses:
+      25 casualties reported
+         Squads: 0 destroyed, 1 disabled
+         Non Combat: 0 destroyed, 2 disabled
+         Engineers: 0 destroyed, 0 disabled
+ 
+Aircraft Attacking:
+       9 x Ki-36 Ida bombing from 7000 feet
+               Ground Attack:  4 x 30 kg GP Bomb
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Afternoon Air attack on TF, near Kota Bharu at 51,75
+ 
+Weather in hex: Heavy cloud
+ 
+Raid spotted at 13 NM, estimated altitude 19,000 feet.
+Estimated time to target is 4 minutes
+ 
+Japanese aircraft
+      A6M2 Zero x 15
+      Ki-27b Nate x 22
+ 
+Allied aircraft
+      Blenheim IV x 8
+ 
+No Japanese losses
+ 
+Allied aircraft losses
+      Blenheim IV: 3 destroyed
+ 
+CAP engaged:
+Yamada Det S-1 with A6M2 Zero (15 airborne, 0 on standby, 0 scrambling)
+      (15 plane(s) diverted to support CAP in hex.)
+      15 plane(s) intercepting now.
+      Group patrol altitude is 8000 , scrambling fighters between 0 and 8000.
+      Raid is overhead
+1st Sentai with Ki-27b Nate (0 airborne, 0 on standby, 0 scrambling)
+      0 plane(s) not yet engaged, 0 being recalled, 11 out of immediate contact.
+      Group patrol altitude is 14000 , scrambling fighters between 0 and 14000.
+      Time for all group planes to reach interception is 23 minutes
+11th Sentai with Ki-27b Nate (11 airborne, 0 on standby, 0 scrambling)
+      11 plane(s) intercepting now.
+      Group patrol altitude is 7000 , scrambling fighters between 0 and 7000.
+      Raid is overhead
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+ 
+Ground combat at Pengpu (90,50)
+ 
+Japanese Shock attack
+ 
+Attacking force 5614 troops, 38 guns, 0 vehicles, Assault Value = 183
+ 
+Defending force 1491 troops, 18 guns, 0 vehicles, Assault Value = 45
+ 
+Japanese adjusted assault: 80 
+ 
+Allied adjusted defense: 4 
+ 
+Japanese assault odds: 20 to 1 
+ 
+Combat modifiers
+Defender: leaders(+), morale(-), experience(-), supply(-)
+Attacker: shock(+), leaders(-)
+ 
+Allied ground losses:
+      1113 casualties reported
+         Squads: 53 destroyed, 6 disabled
+         Non Combat: 29 destroyed, 1 disabled
+         Engineers: 0 destroyed, 0 disabled
+      Guns lost 5 (4 destroyed, 1 disabled)
+      Units retreated 1
+ 
+Defeated Allied Units Retreating!
+ 
+Assaulting units:
+    13th Ind.Mixed Brigade
+ 
+Defending units:
+    89th Chinese Corps
+ 
+ 
+--------------------------------------------------------------------------------
+ 
+Ground combat at Tsingsing (90,40)
+ 
+Japanese Shock attack
+ 
+Attacking force 28185 troops, 281 guns, 101 vehicles, Assault Value = 897
+ 
+Defending force 2564 troops, 16 guns, 0 vehicles, Assault Value = 113
+ 
+Japanese adjusted assault: 840 
+ 
+Allied adjusted defense: 13 
+ 
+Japanese assault odds: 64 to 1 (fort level 1) 
+ 
+Japanese forces CAPTURE Tsingsing !!!
+ 
+Combat modifiers
+Defender: terrain(+), leaders(-), morale(-), experience(-)
+Attacker: shock(+)
+ 
+Japanese ground losses:
+      735 casualties reported
+         Squads: 2 destroyed, 57 disabled
+         Non Combat: 0 destroyed, 9 disabled
+         Engineers: 0 destroyed, 20 disabled
+ 
+Allied ground losses:
+      1076 casualties reported
+         Squads: 50 destroyed, 104 disabled
+         Non Combat: 18 destroyed, 12 disabled
+         Engineers: 3 destroyed, 1 disabled
+      Guns lost 11 (6 destroyed, 5 disabled)
+      Units retreated 1
+ 
+Defeated Allied Units Retreating!
+ 
+Assaulting units:
+    37th Division
+    41st Division
+    4th Ind.Mixed Brigade
+    6th Medium Field Artillery Regiment
+ 
+Defending units:
+    1/19th Chinese Corps
+ 
+ 
+--------------------------------------------------------------------------------
+ 
+Ground combat at Kota Bharu (51,75)
+ 
+Japanese Shock attack
+ 
+Attacking force 3784 troops, 38 guns, 0 vehicles, Assault Value = 175
+ 
+Defending force 3998 troops, 39 guns, 3 vehicles, Assault Value = 113
+ 
+Japanese adjusted assault: 206 
+ 
+Allied adjusted defense: 12 
+ 
+Japanese assault odds: 17 to 1 (fort level 2) 
+ 
+Japanese forces CAPTURE Kota Bharu !!!
+ 
+Allied aircraft
+      no flights
+ 
+Allied aircraft losses
+      Hudson I: 7 destroyed
+      Vildebeest III: 3 destroyed
+      Buffalo I: 1 destroyed
+ 
+Combat modifiers
+Defender: forts(+), leaders(+), disruption(-), preparation(-)
+ morale(-), experience(-)
+Attacker: shock(+)
+ 
+Japanese ground losses:
+      33 casualties reported
+         Squads: 0 destroyed, 5 disabled
+         Non Combat: 0 destroyed, 2 disabled
+         Engineers: 0 destroyed, 0 disabled
+ 
+Allied ground losses:
+      4957 casualties reported
+         Squads: 191 destroyed, 0 disabled
+         Non Combat: 231 destroyed, 0 disabled
+         Engineers: 20 destroyed, 0 disabled
+      Guns lost 47 (47 destroyed, 0 disabled)
+      Vehicles lost 2 (2 destroyed, 0 disabled)
+      Units destroyed 3
+ 
+Assaulting units:
+    56th Infantry Regiment
+    12th Engineer Regiment
+    5th JAAF AF Coy 
+ 
+Defending units:
+    FMSV Brigade
+    8th Indian Brigade
+    3rd ISF Base Force
+ 
+ 
+--------------------------------------------------------------------------------
+ 
+Ground combat at Makin (136,125)
+ 
+Japanese Deliberate attack
+ 
+Attacking force 1626 troops, 12 guns, 0 vehicles, Assault Value = 61
+ 
+Defending force 0 troops, 0 guns, 0 vehicles, Assault Value = 0
+ 
+Japanese adjusted assault: 16 
+ 
+Allied adjusted defense: 1 
+ 
+Japanese assault odds: 16 to 1 (fort level 0) 
+ 
+Japanese forces CAPTURE Makin !!!
+ 
+Combat modifiers
+Attacker: leaders(-)
+ 
+Assaulting units:
+    51st Naval Guard Unit
+ 
+ 

@@ -1,0 +1,8 @@
+SIG INT REPORT FOR Dec 08, 41
+
+Heavy Volume of Radio transmissions detected at Calcutta (52,37).
+Heavy Volume of Radio transmissions detected at Pearl Harbor (180,107).
+Radio transmissions detected at Alexandrovsk (126,41).
+Radio transmissions detected at Cagayan (79,89).
+Heavy Volume of Radio transmissions detected at Manila (79,77).
+Heavy Volume of Radio transmissions detected at Los Angeles (225,76).

@@ -1,0 +1,154 @@
+OPERATIONAL REPORT FOR Dec 08, 41
+
+SS I-1 assigned to offensive patrol 203, 48 - 207, 51 off Tacoma
+SS I-2 assigned to offensive patrol 207, 55 - 206, 51 off Tacoma
+SS I-3 assigned to offensive patrol 208, 55 - 205, 52 off Tacoma
+SS I-4 assigned to offensive patrol 94, 168 - 90, 170 off Newcastle
+SS I-5 assigned to offensive patrol 180, 105 - 177, 107 off Pearl Harbor
+SS I-6 assigned to offensive patrol 93, 170 - 93, 167 off Sydney
+SS I-7 assigned to offensive patrol 112, 159 - 112, 165 off Noumea
+SS I-10 assigned to offensive patrol 98, 162 - 99, 160 off Brisbane
+SS I-9 assigned to offensive patrol 95, 129 - 94, 133 off Port Moresby
+SS I-15 assigned to offensive patrol 92, 130 - 94, 133 off Portland Roads
+SS I-17 assigned to offensive patrol 126, 128 - 129, 126 off Ocean Island
+SS I-19 assigned to offensive patrol 144, 162 - 144, 158 off Pago Pago
+SS I-21 assigned to offensive patrol 142, 160 - 144, 155 off Savaii
+SS I-23 assigned to offensive patrol 124, 129 - 125, 126 off Nauru Island
+SS I-25 assigned to offensive patrol 129, 161 - 130, 159 off Suva
+SS I-26 assigned to offensive patrol 217, 76 - 217, 73 off San Luis Obispo
+SS I-153 assigned to offensive patrol 86, 61 - 84, 62 off Foochow
+SS I-154 assigned to offensive patrol 77, 72 - 77, 79 off Clark Field
+SS I-155 assigned to offensive patrol 75, 77 - 75, 80 off Manila
+SS I-156 assigned to offensive patrol 74, 77 - 76, 79 off Manila
+SS I-158 assigned to offensive patrol 77, 81 - 78, 73 off Manila
+SS RO-63 assigned to offensive patrol 127, 162 - 125, 161 off Nadi
+SS RO-67 assigned to offensive patrol 100, 129 - 102, 128 off Salamaua
+SS RO-68 assigned to offensive patrol 101, 126 - 100, 123 off Lae
+SS I-8 assigned to offensive patrol 94, 144 - 95, 145 off Townsville
+SS I-168 assigned to offensive patrol 182, 107 - 178, 104 off Pearl Harbor
+SS I-169 assigned to offensive patrol 178, 108 - 177, 110 off Pearl Harbor
+SS I-159 transfers to Truk
+SS I-160 transfers to Truk
+SS RO-33 transfers to Truk
+SS RO-34 transfers to Truk
+Hwaiyin is occupied by the Japanese
+Coastwatcher Report: 1 ship in port at Foochow
+Coastwatcher Report: 4 ships in port at Pakhoi
+Coastwatcher Report: 3 ships in port at Kwangchowan
+Coastwatcher sighting: 4 Allied ships at 77,61 near Hong Kong , Speed unknown  
+Coastwatcher sighting: 8 Allied ships at 77,61 near Hong Kong , Speed unknown  
+E13A1 Jake sighting report: 3 Allied ships at 124,56 near Kushiro, speed 20, Moving West
+F1M2 Pete reports shadow in water at 106, 58 near Hiroshima/Kure
+G4M1 Betty sighting report: 9 Allied ships at 86,73 near Batan Island, speed 19, Moving East
+E8N2 Dave sighting report: 6 Allied ships at 114,62 near Yokohama/Yokosuka, speed 12, Moving East
+E8N2 Dave reports possible submarine at 114, 62 near Yokohama/Yokosuka
+E7K2 Alf sighting report: 2 Allied ships at 113,61 near Yokohama/Yokosuka, speed 10, Moving East
+B5N2 Kate reports submarine at 178, 107 near Lihue
+B5N2 Kate reports shape below surface at 179, 107 near Pearl Harbor
+F1M2 Pete reports diving submarine at 111, 82 near Iwo-jima
+E13A1 Jake reports submarine wake at 179, 107 near Pearl Harbor
+TF 1 sighted by SOC-1 Seagull at 173,102 near French Frigate Shoal
+TF 14 detects PBY-4 Catalina at 83,70 near Calayan
+TF 3 followed by PBY-4 Catalina at 86,87 near Dinagat
+TF 8 detected by PBY-4 Catalina at 85,70 near Batan Island
+TF 9 shadowed by PBY-4 Catalina at 81,65 near Takao
+TF 127 observes PBY-4 Catalina at 84,65 near Takao
+TF 89 detects PBY-4 Catalina at 87,91 near Babeldaob
+TF 14 sighted by PBY-4 Catalina at 83,70 near Calayan
+TF 19 shadowed by PBY-4 Catalina at 83,70 near Calayan
+TF 87 detects PBY-4 Catalina at 83,70 near Calayan
+TF 88 shadowed by PBY-4 Catalina at 80,69 near Laoag
+TF 96 sighted by PBY-4 Catalina at 85,70 near Batan Island
+TF 118 shadowed by PBY-4 Catalina at 83,70 near Calayan
+TF 8 snooped by PBY-4 Catalina at 85,70 near Batan Island
+TF 144 detects Do-24K-1 at 64,75 near Cam Ranh Bay
+TF 5 followed by Do-24K-1 at 51,75 near Kota Bharu
+TF 97 sighted by Do-24K-1 at 51,72 near Singora
+TF 85 observes Do-24K-1 at 51,75 near Kota Bharu
+TF 7 shadowed by Catalina I at 51,72 near Singora
+PO2 Nojima E. of Yamada Det S-1 is credited with kill number 2
+PO1 Matsuba O. of Yamada Det S-1 is credited with kill number 2
+PO1 Kaneko K. of Yamada Det S-1 is credited with kill number 2
+Damaged G3M2 Nell from Genzan Ku K-1 does not return, pilot reported killed
+D3A1 Val from Soryu-2 is damaged on landing
+Ki-27b Nate from 1st Sentai is written off
+H6K4 Mavis reports periscope wake at 79, 73 near San Fernando
+Search H6K4 Mavis destroyed by CAP at (145,101)
+E7K2 Alf sighting report: 9 Allied ships at 106,91 near Saipan, speed 17, Moving East
+B5N2 Kate sighting report: 7 Allied ships at 173,101 near French Frigate Shoal, speed 14, Moving Southeast
+B5N2 Kate reports diving submarine at 178, 107 near Lihue
+B5N2 Kate reports suspected submarine at 179, 107 near Pearl Harbor
+B5N2 Kate reports conning tower at 178, 107 near Lihue
+B5N2 Kate reports shadow in water at 178, 107 near Lihue
+B5N2 Kate sighting report: 7 Allied ships at 174,105 near Niihau, speed 10, Moving Northwest
+F1M2 Pete reports periscope at 106, 58 near Hiroshima/Kure
+E13A1 Jake reports suspected submarine at 79, 73 near San Fernando
+F1M2 Pete reports oil slick at 80, 72 near Laoag
+E7K2 Alf reports periscope at 80, 72 near Laoag
+E7K2 Alf reports radio transmissions at 79, 73 near San Fernando
+E14Y1 Glen reports object under water at 210, 85 near San Francisco
+MGB G-5 observes PBY-4 Catalina at 84,65 near Takao
+CL Naka observes PBY-4 Catalina at 80,69 near Laoag
+TF 118 snooped by PBY-4 Catalina at 83,70 near Calayan
+TF 11 observes PBY-4 Catalina at 84,65 near Takao
+TF 12 followed by PBY-4 Catalina at 80,69 near Laoag
+TF 17 followed by PBY-4 Catalina at 84,65 near Takao
+xAP Hakozaki Maru snooped by PBY-4 Catalina at 66,70 near Quinhon
+xAP Hakozaki Maru observes Do-24K-1 at 66,70 near Quinhon
+TF 130 snooped by Do-24K-1 at 94,103 near Yap
+TF 92 detects Do-24K-1 at 51,73 near Patani
+TF 94 observes Do-24K-1 at 51,70 near Nakhon Si Thammarat
+E13A1 Jake from Sanyo Maru-2 crashes on landing
+D3A1 Val from Kaga-2 is damaged on landing
+A6M2 Zero from Soryu-1 is damaged on landing
+A6M2 Zero from Hiryu-1 is damaged on landing
+Pilot killed in landing accident of A6M2 Zero from Shokaku-1
+Ki-27b Nate from 11th Sentai is damaged on landing
+Ki-27b Nate from 11th Sentai is damaged on landing
+Ki-27b Nate from 24th Sentai is damaged on landing
+Ki-51 Sonia from 44th Sentai crashes on landing
+Ki-43-Ia Oscar from 59th Sentai crashes on landing
+Ki-51 Sonia from 44th Sentai is written off
+Pilot killed in landing accident of Ki-27b Nate from 11th Sentai
+Ki-27b Nate from 11th Sentai crashes on landing
+Japanese forces CAPTURE Tsingsing !!!
+Japanese forces CAPTURE Kota Bharu !!!
+Japanese forces CAPTURE Makin !!!
+Hamamatsu expands fortifications to size 1
+Nagoya expands fortifications to size 1
+Toyohara expands fortifications to size 1
+Rashin expands fortifications to size 1
+Takao expands fortifications to size 2
+Soc Trang expands fortifications to size 1
+Bangkok expands fortifications to size 1
+Patani expands fortifications to size 1
+Pagan expands fortifications to size 1
+Kagi expands fortifications to size 1
+Oita expands fortifications to size 1
+Kanoya expands fortifications to size 1
+Yokosuka Ku K-1 at Yokohama/Yokosuka takes G4M1 Betty replacements
+1st Sentai at Singora takes Ki-27b Nate replacements
+78th Infantry Regiment - some devices have been upgraded at Kaishu
+15th Tank Regiment - some devices have been upgraded at Peiping
+1st Cavalry Brigade - some devices have been upgraded at Paotow
+4th Cavalry Brigade - some devices have been upgraded at Paoting
+28th Cavalry Regiment - some devices have been upgraded at Harbin
+3rd Cavalry Brigade - some devices have been upgraded at Hailun
+4th Border Defense Fortress - some devices have been upgraded at Kotou
+I./33rd Inf Regt  - some devices have been upgraded at Amami Oshima
+Chinkai Naval Base Force - some devices have been upgraded at Chinhae
+Rashin Special Base Force - some devices have been upgraded at Rashin
+Hankow Special Base Force - some devices have been upgraded at Hankow
+Shanghai Special Base Force - some devices have been upgraded at Shanghai
+Ryojun Special Base Force - some devices have been upgraded at Port Arthur
+Ching Tao Special Base Force - some devices have been upgraded at Tsingtao
+Amoy Special Base Force - some devices have been upgraded at Amoy
+Mutsu Bay Fortress - some devices have been upgraded at Ominato
+Sasebo Naval Base Force - some devices have been upgraded at Nagasaki/Sasebo
+Ominato Naval Base Force - some devices have been upgraded at Ominato
+Device(s) upgraded in 3rd NCPC Infantry Brigade supplied from Tientsin
+Device(s) upgraded in 15th Division supplied from Nanking
+Device(s) upgraded in 12th RGC Temp. Division supplied from Hankow
+CA Indianapolis is reported to have been sunk near Niihau on Dec 08, 1941
+DMS Dorsey is reported to have been sunk near Niihau on Dec 08, 1941
+DMS Long is reported to have been sunk near Niihau on Dec 08, 1941

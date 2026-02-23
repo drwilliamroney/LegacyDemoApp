@@ -1,0 +1,194 @@
+OPERATIONAL REPORT FOR Dec 08, 41
+
+SS Argonaut assigned to offensive patrol 120, 55 - 123, 56 off Kushiro
+SS Thresher assigned to defensive patrol 177, 107 - 180, 105 off Pearl Harbor
+SS Nautilus transfers to Pearl Harbor
+SS Cachalot assigned to defensive patrol 179, 107 - 178, 108 off Pearl Harbor
+SS Dolphin assigned to defensive patrol 178, 107 - 177, 106 off Pearl Harbor
+SS Porpoise assigned to offensive patrol 111, 63 - 107, 62 off Matsuyama
+SS Pike assigned to offensive patrol 109, 54 - 98, 57 off Fukuoka
+SS Shark assigned to offensive patrol 101, 50 - 100, 52 off Keijo
+SS Tarpon assigned to offensive patrol 99, 47 - 98, 49 off Port Arthur
+SS Perch assigned to offensive patrol 103, 61 - 107, 55 off Shimonoseki
+SS Pickerel assigned to offensive patrol 99, 58 - 100, 60 off Nagasaki/Sasebo
+SS Salmon assigned to offensive patrol 116, 61 - 114, 62 off Iwaki
+SS Seal assigned to offensive patrol 110, 61 - 111, 64 off Yokohama/Yokosuka
+SS Skipjack assigned to offensive patrol 125, 45 - 127, 46 off Toyohara
+SS Snapper assigned to offensive patrol 116, 62 - 114, 62 off Utsonomiya
+SS Sturgeon assigned to offensive patrol 111, 64 - 105, 61 off Kobe
+SS Sargo assigned to offensive patrol 83, 69 - 82, 67 off Batan Island
+SS Saury assigned to offensive patrol 110, 66 - 117, 62 off Tokyo
+SS Spearfish assigned to offensive patrol 82, 65 - 87, 61 off Pescadores
+SS Sculpin assigned to offensive patrol 67, 62 - 67, 60 off Samah
+SS Sailfish assigned to offensive patrol 85, 69 - 80, 63 off Takao
+SS Swordfish assigned to offensive patrol 66, 73 - 68, 73 off Cam Ranh Bay
+Temporary flotation repairs failing aboard BC Repulse
+Temporary flotation repairs failing aboard BC Repulse
+No additional repairs possible on DD Bagley using currently assigned resources at Pearl Harbor
+No additional repairs possible on SS K X using currently assigned resources at Soerabaja
+TF 441 leaving patrol zone to refuel at Melbourne
+CL Danae detected by Japanese Torpedo Bomber at 50,84 near Singapore
+TF 420 sighted by Japanese Aircraft at 50,84 near Singapore
+TF 18 followed by H6K4 Mavis at 50,84 near Singapore
+a Royal Sovereign class BB has spotted a Japanese Patrol at 50,84
+CL Danae sights Japanese Float Plane at 50,84 near Singapore
+TF 409 sighted by Japanese Aircraft at 174,107 near Niihau
+SS Dolphin under attack by a Japanese Aircraft at 178,107
+CA Houston sighted by Japanese Carrier Aircraft at 79,84 near Iloilo
+TF 420 sights Japanese Fighter Bomber at 50,84 near Singapore
+SOC-1 Seagull reports periscope wake at 178, 108 near Lihue
+Sighting report: 9 Japanese ships at 51,75 near Kota Bharu , Speed unknown  
+Sighting report: 9 Japanese ships at 51,75 near Kota Bharu , Speed unknown  
+Japanese Fighter Bomber sighted over Kuantan 
+Japanese Aircraft sighted over 86th Chinese Corps
+Japanese Fighter Bomber sighted over 108th/2 Base Force
+Japanese Fighter sighted over Foochow 
+Japanese Torpedo Bomber sighted over Kuantan 
+Japanese Aircraft sighted over Aparri 
+Japanese Aircraft sighted over Aparri 
+Ki-46-I Dinah sighted over Aparri 
+Japanese Aircraft sighted over Laoag 
+Japanese Fighter sighted over Kota Bharu 
+Japanese Recon sighted over Victoria Point 
+Japanese Aircraft sighted over Victoria Point 
+Japanese Fighter Bomber sighted over Kota Bharu 
+Japanese Aircraft sighted over Calayan 
+Japanese Aircraft sighted over 100th RAF Base Force
+Japanese Fighter Bomber sighted over Victoria Point 
+Japanese Aircraft sighted over Alor Star 
+Japanese Aircraft sighted over Bassein 
+Japanese Fighter Bomber sighted over Taiping 
+Japanese Aircraft sighted over Bayombong 
+SLDR Henderson, A.D. of No.8 Sqn RAAF Det bails out with WOUNDS but is RESCUED
+WCDR Wright, F.N. of No.8 Sqn RAAF bails out with WOUNDS but is RESCUED
+Beaufort V (PR) takes recon photos of Singora
+C5M2 Babs sighted over Bayombong 
+Japanese Aircraft sighted over Penang Fortress
+C5M2 Babs sighted over Bayombong 
+Japanese Aircraft sighted over 26th PS Cavalry Regiment
+Japanese Aircraft sighted over 1st/45th PS Inf Battalion
+Japanese Aircraft sighted over 803rd Engineer Aviation Battalion
+Japanese Fighter sighted over 5th Field Regiment
+Japanese Recon sighted over Terempa 
+Japanese Aircraft sighted over Changteh 
+Japanese Aircraft sighted over Bassein 
+Japanese Aircraft sighted over 5/14th Punjab Battalion
+Japanese Aircraft sighted over Temuloh 
+Japanese Aircraft sighted over Bassein 
+Ki-46-II Dinah sighted over Clark Field 
+Japanese Aircraft sighted over 5th Chinese Cavalry Corps
+Beaufort V (PR) takes recon photos of Singora
+Planes from VCS-4/4 unable to divert to another base
+CW-22 Falcon from *Vk.A.1 crashes on landing
+Do-24K-1 from GVT-4 crashes on landing
+Buffalo I from No.21 Sqn RAAF is written off
+DMS Southard sinks at sea
+CA Houston has spotted a Japanese Float Plane at 79,84
+CL Danae has spotted a Japanese Aircraft at 50,84
+TF 405 sighted by H6K4 Mavis at 145,101 near Wake Island
+DMS Hopkins has spotted a Japanese Aircraft at 174,107
+DMS Hopkins has spotted a Japanese Aircraft at 174,107
+Search PBY-4 Catalina destroyed by CAP at (84,65)
+Do-24K-1 sighting report: 6 Japanese ships at 86,96 near Babeldaob, speed 13, Moving East
+Japanese Aircraft sighted over 86th Chinese Corps
+Japanese Aircraft sighted over Penang Fortress
+Japanese Aircraft sighted over Foochow 
+Japanese Aircraft sighted over Laoag 
+Japanese Fighter Bomber sighted over Calayan 
+Japanese Fighter Bomber sighted over Taiping 
+Japanese Aircraft sighted over Terempa 
+Japanese Aircraft sighted over Bassein 
+Japanese Aircraft sighted over 5/14th Punjab Battalion
+Japanese Recon sighted over 3rd Burma Rifles Battalion
+Japanese Aircraft sighted over Mauban 
+Japanese Fighter sighted over 40th Chinese Corps
+Japanese Aircraft sighted over Laoag 
+Japanese Torpedo Bomber sighted over Georgetown 
+Japanese Fighter Bomber sighted over Laoag 
+Japanese Aircraft sighted over 21st PA Infantry Division
+Japanese Recon sighted over Lingayen 
+Japanese Torpedo Bomber sighted over 11th PA Infantry Division
+Japanese Fighter Bomber sighted over Chihkiang 
+Japanese Aircraft sighted over 5th Chinese Cavalry Corps
+Japanese Aircraft sighted over Chihkiang 
+Japanese Fighter Bomber sighted over Railway BAF Battalion
+Ki-46-II Dinah sighted over 28th Gurkha Brigade
+Japanese Fighter sighted over Prome 
+Japanese Aircraft sighted over Lucena 
+Japanese Aircraft sighted over Chihkiang 
+Japanese Aircraft sighted over Chengchow 
+Damaged Blenheim IV from No.34 Sqn RAF is missing
+P-26A from 6th PS PAAC is written off
+P-40B Warhawk from 24th PG/HqS is written off
+No additional repairs possible on DD Bagley using currently assigned resources at Pearl Harbor
+No additional repairs possible on SS K X using currently assigned resources at Soerabaja
+Japanese forces CAPTURE Tsingsing !!!
+Japanese forces CAPTURE Kota Bharu !!!
+Japanese forces CAPTURE Makin !!!
+Pendleton expands fortifications to size 1
+Sacramento expands fortifications to size 1
+San Francisco expands fortifications to size 2
+Stockton expands fortifications to size 1
+Wendover Field expands fortifications to size 1
+Annette Island expands fortifications to size 1
+Juneau expands fortifications to size 1
+Hilo expands fortifications to size 1
+Lahaina expands fortifications to size 1
+Palmyra expands fortifications to size 1
+Pago Pago expands fortifications to size 1
+Kuala Lumpur expands fortifications to size 1
+Malacca expands fortifications to size 1
+Taiping expands fortifications to size 1
+Christmas Island expands fortifications to size 1
+Bangalore expands fortifications to size 1
+Hyderabad expands fortifications to size 1
+Alice Springs expands fortifications to size 1
+Canberra expands fortifications to size 1
+Ceduna expands fortifications to size 1
+Portland expands fortifications to size 1
+Wagga Wagga expands fortifications to size 1
+Calgary expands fortifications to size 1
+San Luis Obispo expands fortifications to size 1
+Puckapunyal expands fortifications to size 1
+GVT-4 at Sambas takes Do-24K-1 replacements
+No.8 Sqn RAAF at Singapore takes Hudson I replacements
+No.24 Sqn RAAF at Townsville takes Wirraway II replacements
+5th BG/31st BS at Pearl Harbor takes B-17D Fortress replacements
+51st PG/16th PS at March Field takes P-40E Warhawk replacements
+6th PS PAAC at Batangas takes P-26A replacements
+19th TS at Pearl Harbor takes C-33 replacements
+Cavite USN Base Force - some devices have been upgraded at Manila
+Christmas USN CPNAB  - some devices have been upgraded at Christmas Island
+SD Harbor Defenses  - some devices have been upgraded at San Diego
+D Coy/NGV Rifles  - some devices have been upgraded at Salamaua
+11th Australian Battalion - some devices have been upgraded at Perth
+Darwin RAAF Base Force - some devices have been upgraded at Darwin
+2/15 Punjab Battalion - some devices have been upgraded at Kuching
+9/11th Sikh Battalion - some devices have been upgraded at Rangoon
+Device(s) upgraded in Rabaul Det. Base Force supplied from Rabaul
+Device(s) upgraded in 2nd RAAF Base Force supplied from Geelong
+Device(s) upgraded in 2nd RAN Base Force supplied from Darwin
+Device(s) upgraded in 17th RAAF Base Force supplied from Ceduna
+Device(s) upgraded in 108th RAF Base Force supplied from Tavoy
+Low garrison leads to damage and 1 VP loss from partisan attack at Colombo (29, 48)!
+Low garrison leads to damage and 1 VP loss from partisan attack at Mandalay (59, 46)!
+Low garrison leads to damage and 1 VP loss from partisan attack at Chittagong (55, 41)!
+Low garrison leads to damage and 1 VP loss from partisan attack at Madurai (30, 42)!
+Loss of CA Indianapolis on Dec 08, 1941 is admitted
+AV Wright arrives at Pearl Harbor
+Loss of DMS Dorsey on Dec 08, 1941 is admitted
+Loss of DMS Long on Dec 08, 1941 is admitted
+xAK Ewa arrives at Balboa
+xAKL Island Mail arrives at Balboa
+xAP Largs Bay arrives at Aden
+xAP Felix Roussel arrives at Cape Town
+xAP Cap St Jacques arrives at Cape Town
+VMF-111 arrives at Eastern USA
+VP-71 arrives at Eastern USA
+VP-72 arrives at Eastern USA
+2-VI.G.II  arrives at Malang
+3-Vl.G.IV arrives at Madioen
+Vk.A.4 arrives at Kalidjati
+No.7 Sqn RCAF arrives at Prince Rupert
+No.9 Sqn RCAF arrives at Bella Bella
+No.4 Sqn RNZAF arrives at Suva
